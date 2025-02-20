@@ -24,7 +24,7 @@ def main()->None:
 
     map = tappe.explore(tiles="CartoDB positron")
 
-    st_map = st_folium(map, width=700, height=450)
+    st_map = st_folium(map, width=900, height=450)
 
 
 
